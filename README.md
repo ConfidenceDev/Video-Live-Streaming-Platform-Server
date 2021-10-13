@@ -2,7 +2,7 @@
  A simple live streaming platfrom server built on socket.io
 
 # Resources
-Android: <a href="https://github.com/Dev-Geek/Video-Live-Streaming-Platform-Android">https://github.com/Dev-Geek/Video-Live-Streaming-Platform-Android</a>
+Android: <a href="https://github.com/Dev-Geek/Video-Live-Streaming-Platform-Android">https://github.com/Dev-Geek/Video-Live-Streaming-Platform-Android</a> <br />
 Web: <a href="https://github.com/Dev-Geek/Video-Live-Streaming-Platform-Web">https://github.com/Dev-Geek/Video-Live-Streaming-Platform-Web</a>
 
 # How to Use
